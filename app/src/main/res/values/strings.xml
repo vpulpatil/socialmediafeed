@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestSingleTon</string>
+    <string name="empty_post_info_text">Create Post by Clicking on +</string>
+</resources>
